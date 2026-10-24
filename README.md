@@ -76,8 +76,8 @@ The pipeline operates in five main phases:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/safalsingh1/Corrective-RAG.git
-cd Corrective-RAG
+git clone https://github.com/Saubhagya321/Corrective_RAG.git
+cd Corrective_RAG
 
 # 2. Create and activate a virtual environment
 python -m venv venv
